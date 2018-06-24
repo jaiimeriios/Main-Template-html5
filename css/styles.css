@@ -6,7 +6,8 @@ body {
 }
 
 /* Link styling */
-a:link { color:#0271fb; }
+a { color: #0cc; }
+a:link { color:#078bcc; }
 a:visited { color:#bd02fb; }
 a:hover, a:focus { color:#000; }
 a:active { color:#fb0e02; }
