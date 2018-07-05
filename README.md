@@ -15,4 +15,4 @@ Features
 
 Contribute
 ==========
-You are of course welcome to contribute, this is what GitHub is for.
+You are of course welcome to contribute, and use this as you please, this is what GitHub is for.
