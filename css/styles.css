@@ -11,3 +11,21 @@ a:link { color:#078bcc; }
 a:visited { color:#bd02fb; }
 a:hover, a:focus { color:#000; }
 a:active { color:#fb0e02; }
+
+
+header {
+  max-width: 960px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.wrap {
+  max-width: 960px;
+  height: auto;
+  margin: 0 auto;
+}
+footer {
+  max-width: 960px;
+  height: auto;
+  margin: 0 auto;
+}
