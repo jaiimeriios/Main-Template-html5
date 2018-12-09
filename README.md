@@ -1,6 +1,6 @@
 # My HTML5 Template - Basic html5 template
 - Author: Jaime Alejandro Rios [jaiimeriios.com](http://jaiimeriios.com/)
-- Website: [main-html5-template](https://jaiimeriios.github.io/html5-Main-Template/)
+- Website: [html5-main-template](https://jaiimeriios.github.io/html5-Main-Template/)
 
 ## Purpose
 This is my personal template, a template to get you going in HTML5.
