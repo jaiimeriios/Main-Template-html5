@@ -1,7 +1,7 @@
 My HTML5 Template - Basic html5 template
 ===================================================
 - Author: Jaime Alejandro Rios [jaiimeriios.com](http://jaiimeriios.com/)
-- Website: [main-html5-template](html5-Main-Template)
+- Website: [main-html5-template](https://jaiimeriios.github.io/html5-Main-Template/)
 
 Purpose
 =======
